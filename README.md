@@ -2,13 +2,19 @@
   <h2> "Data has better idea..." </h2>
 </div>
 
-  <img align="center" src="https://images.unsplash.com/photo-1506259091721-347e791bab0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" height=300 width=1000 alt="JaimeEV | Github" style="margin: 0 auto;" title="JaimeEV | Github"/>
+<img align="center" src="https://images.unsplash.com/photo-1506259091721-347e791bab0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" height=300 width=1000 alt="JaimeEV | Github" style="margin: 0 auto;" title="JaimeEV | Github"/>
+
+
+<p align='center'>
+  <a href="https://jcmexdev-blog.herokuapp.com/"><img src="https://img.shields.io/badge/blog-9146FF.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/juancarlosgarciaesquivel"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/jcmexdev"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/@jcmexdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/jcmexdev"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 <h3>GitHub Stats</h3>
-
-
-
 <div align="center">
 <a href="https://github.com/jcmexdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaimeEV&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="Jaime's GitHub Stats"/>
