@@ -13,7 +13,7 @@
   <a href="https://www.datacamp.com/profile/maildeljimmy"><img src="imgs/DATACAMP.png" alt="Tableau" height=30 width=70 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">Hi, welcome 👨‍💻</h1>
+<h1 align="center">Hi, welcome</h1>
 <p>Data Science Fan, focused in find insights within any kind of data in order to help to make data driven decisions. I like the Arts ,the Technology and the intersection Between them.</p>
 
 - 🌱 I’m currently learning "Data Science"
