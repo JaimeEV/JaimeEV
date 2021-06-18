@@ -19,9 +19,7 @@
 - 🌱 I’m currently learning "Data Science"
 - 👯 I’m looking to collaborate on "Any Data Project (great Data Music)"
 - 💬 Ask me about Music, Python, Jupyter Notebooks
-- ⚡ Fun fact: 8. The Bajau don’t know their age
- 
-Sea nomad life makes the Bajau Tribe is not so concerned with education of their offspring. The result, of course, the majority of them do not know letters, aka illiterate. In fact they are not really know about their age.
+- ⚡ Curious fact: Some People Are Scared of Left-Handedness!. Sinistrophobia is defined as the fear of things at the left side or left-handed people.(I am left-handed)
 
 ---
 
