@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/jaime-escobedo-b0a666b9/"><img src="imgs/LINKEDIN.png" alt="GitHub" height=28 width=96/></a>
+  <a href="https://www.linkedin.com/in/jaime-escobedo-b0a666b9/"><img src="imgs/LINKEDIN.png" alt="GitHub" height=30 width=70/></a>
   <a href="https://www.kaggle.com/jaimeev"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://platzi.com/@jcmexdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/jcmexdev"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
