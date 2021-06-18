@@ -13,9 +13,9 @@
   <a href="https://www.datacamp.com/profile/maildeljimmy"><img src="imgs/DATACAMP.png" alt="Tableau" height=30 width=70 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h1 align="center">Hey
-<img src="https://raw.githubusercontent.com/jcmexdev/jcmexdev/main/assets/hi.gif" width="25">, nice to see you 👨‍💻</h1>
-<p>Backend developer, specialized in web technologies like JavaScript, React, React Native, Redux, Node, Php, Laravel. Focused in create quality and high-performance software. Self-taught, I love learning about tech and I share posts about my favorite topics on my blog.</p>
+<h1 align="center">Hi
+<img width="25">, welcome 👨‍💻</h1>
+<p>Data Science Fan, focused in find insights within any kind of data in order to help to make data driven decisions. I like the Arts ,the Technology and the intersection Between them.</p>
 
 ---
 
