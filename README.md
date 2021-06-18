@@ -7,9 +7,10 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/jaime-escobedo-b0a666b9/"><img src="imgs/LINKEDIN.png" alt="GitHub" height=30 width=70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/jaimeev"><img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://platzi.com/@jcmexdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/jcmexdev"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/jaimeev"><img src="imgs/KAGGLE.png" alt="Kaggle" height=30 width=70//></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/profile/jaime.ev#!/"><img src="imgs/PUBLICTABLEAU.png" alt="Tableau" height=30 width=70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://platzi.com/p/Jaime_EV/"><img src="imgs/PLATZI.png" alt="Platzi" height=30 width=70</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.datacamp.com/profile/maildeljimmy"><img src="imgs/PUBLICTABLEAU.png" alt="Tableau" height=30 width=70 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3>GitHub Stats</h3>
