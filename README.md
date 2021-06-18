@@ -7,7 +7,13 @@
 <a href="https://github.com/JaimeEV">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeEV&theme=dracula&count_private=true&hide=css,blade" alt="Jaime's GitHub Stats" />
 </a>
-<!--
+  
+- Compact layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
+  
 <a href="https://github.com/jcmexdev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JaimeEV&count_private=true&show_icons=true&line_height=27&theme=dracula" alt="Jaime's GitHub Stats"/>
 </a>
