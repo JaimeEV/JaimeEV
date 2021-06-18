@@ -1,6 +1,6 @@
 ### Hi there 👋
 <kbd>
-  <img src="https://images.unsplash.com/photo-1485796826113-174aa68fd81b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80" alt="JaimeEV | Github" style="margin: 0 auto;" title="JaimeEV | Github" /> 
+  <img src="https://images.unsplash.com/photo-1485796826113-174aa68fd81b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=13&q=80" alt="JaimeEV | Github" style="margin: 0 auto;" title="JaimeEV | Github" /> 
 </kbd>
 
 
