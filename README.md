@@ -8,7 +8,7 @@
 <p align='center'>
   <a href="https://www.linkedin.com/in/jaime-escobedo-b0a666b9/"><img src="imgs/LINKEDIN.png" alt="GitHub" height=30 width=70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/jaimeev"><img src="imgs/KAGGLE.png" alt="Kaggle" height=30 width=70//></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://public.tableau.com/profile/jaime.ev#!/"><img src="imgs/PUBLICTABLEAU.png" alt="Tableau" height=30 width=70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://public.tableau.com/profile/jaime.ev#!/"><img src="imgs/TABLEAUPUBLIC.png" alt="Tableau" height=30 width=70/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://platzi.com/p/Jaime_EV/"><img src="imgs/PLATZI.png" alt="Platzi" height=30 width=70</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.datacamp.com/profile/maildeljimmy"><img src="imgs/PUBLICTABLEAU.png" alt="Tableau" height=30 width=70 /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
