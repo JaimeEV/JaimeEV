@@ -11,7 +11,6 @@
   <a href="https://platzi.com/@jcmexdev/"><img src="https://img.shields.io/badge/Platzi-98CA3F.svg?&style=for-the-badge&logo=platzi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/jcmexdev"><img src="https://img.shields.io/badge/hacker%20rank-2EC866.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-j
 
 <h3>GitHub Stats</h3>
 <div align="center">
