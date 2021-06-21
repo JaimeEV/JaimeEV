@@ -20,7 +20,7 @@
 - 👯 I’m looking to collaborate on "Any Data Project (great Data Music)"
 - 💬 Ask me about Music, Python, Jupyter Notebooks
 - ⚡ Curious fact: Some People Are Scared of Left-Handedness!. Sinistrophobia is defined as the fear of things at the left side or left-handed people.(I am left-handed)
-
+- ✨ Contact: escobedo.v.jaime@gmail.com
 ---
 
 <h3>🛠 Dev Tools</h3>
